@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>AtlasBank</PackageId>
+    <Authors>Atlas guys</Authors>
+    <Company>Knab</Company>
+  </PropertyGroup>
+
+</Project>
